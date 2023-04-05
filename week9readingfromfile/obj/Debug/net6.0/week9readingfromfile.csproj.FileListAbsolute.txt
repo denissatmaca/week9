@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\obj\Debug\net6.0\week9readingfromfile.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\obj\Debug\net6.0\week9readingfromfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\obj\Debug\net6.0\week9readingfromfile.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\obj\Debug\net6.0\week9readingfromfile.AssemblyInfo.cs
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\obj\Debug\net6.0\week9readingfromfile.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\bin\Debug\net6.0\week9readingfromfile.exe
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\bin\Debug\net6.0\week9readingfromfile.deps.json
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\bin\Debug\net6.0\week9readingfromfile.runtimeconfig.json
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\bin\Debug\net6.0\week9readingfromfile.dll
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\bin\Debug\net6.0\week9readingfromfile.pdb
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\obj\Debug\net6.0\week9readingfromfile.dll
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\obj\Debug\net6.0\refint\week9readingfromfile.dll
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\obj\Debug\net6.0\week9readingfromfile.pdb
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\obj\Debug\net6.0\week9readingfromfile.genruntimeconfig.cache
+C:\Users\monster\source\repos\week9readingfromfile\week9readingfromfile\obj\Debug\net6.0\ref\week9readingfromfile.dll
